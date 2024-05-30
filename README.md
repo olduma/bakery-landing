@@ -43,4 +43,4 @@ To set up the project locally, follow these steps:
    ```bash
    cd bakery-landing
 
-3. Open index.html in your preferred web browser to view the project locally.  (ensure you are using Node.js version 14)
+3. Open index.html in your preferred web browser to view the project locally. (ensure you are using Node.js version 14)
