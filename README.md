@@ -1,19 +1,19 @@
-# Bike Landing Page
+# Bakery Landing Page
 
 [Live Demo](https://olduma.github.io/bakery-landing/)
 
 ## Description
 
-This project is a sleek and modern landing page designed for a bike shop, showcasing various models of bikes along with their features and specifications. The website provides an engaging user experience with a responsive design and interactive elements.
+This project is a sleek and modern landing page designed for a bakery, showcasing various baked goods along with their features and specifications. The website provides an engaging user experience with a responsive design and interactive elements.
 
 ## Features
 
 - **Responsive Design**: The layout adjusts seamlessly to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
-- **Navigation Menu**: Easy-to-use navigation menu that allows users to quickly access different sections of the site, including Home, About Us, Compare Bikes, Details, and Contacts.
-- **Bike Comparison**: A section dedicated to comparing different bike models, complete with images, descriptions, and prices.
-- **Detailed Information**: In-depth details about specific bike features such as auto unlock, range, integrated lights, hydraulic disc brakes, and lightweight design.
-- **Contact Form**: A functional contact form for users to send messages, inquire about bikes, or request a test ride.
-- **Interactive Elements**: Includes interactive buttons and links to enhance user engagement.
+- **Navigation Menu**: Easy-to-use navigation menu that allows users to quickly access different sections of the site, including Home, Products, About Us, Blog, and Contact.
+- **Product Showcase**: A section dedicated to showcasing different baked goods, complete with images and descriptions.
+- **Detailed Information**: In-depth details about specific products, including ingredients and customization options.
+- **Contact Form**: A functional contact form for users to send messages, inquire about products, or place orders.
+- **Interactive Elements**:  Includes interactive buttons and links to enhance user engagement.
 
 ## Technologies Used
 
